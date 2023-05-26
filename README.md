@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-Description of your project.
+Fetch all up-to-date MITRE data directly from the (MITRE official website)[https://attack.mitre.org/]
 
 ## Table of Contents
 
